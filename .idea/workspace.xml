@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27e19632-6bd6-435b-ba0e-60f1f5277a78" name="Default Changelist" comment="" />
+    <list default="true" id="27e19632-6bd6-435b-ba0e-60f1f5277a78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/producthunt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/producthunt/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-189">
-              <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="30" />
+            <state relative-caret-position="310">
+              <caret line="79" column="14" selection-start-line="77" selection-end-line="86" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -117,19 +119,19 @@
         <option value="$PROJECT_DIR$/accounts/templates/accounts/login.html" />
         <option value="$PROJECT_DIR$/products/templates/products/create.html" />
         <option value="$PROJECT_DIR$/producthunt/urls.py" />
-        <option value="$PROJECT_DIR$/producthunt/settings.py" />
         <option value="$PROJECT_DIR$/products/urls.py" />
         <option value="$PROJECT_DIR$/products/views.py" />
         <option value="$PROJECT_DIR$/products/models.py" />
         <option value="$PROJECT_DIR$/producthunt/templates/base.html" />
         <option value="$PROJECT_DIR$/products/templates/products/detail.html" />
         <option value="$PROJECT_DIR$/products/templates/products/home.html" />
+        <option value="$PROJECT_DIR$/producthunt/settings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="695" />
-    <option name="y" value="62" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="530" />
+    <option name="y" value="64" />
     <option name="width" value="1568" />
     <option name="height" value="917" />
   </component>
@@ -309,7 +311,7 @@
       <updated>1569166821550</updated>
       <workItem from="1569166825078" duration="3632000" />
       <workItem from="1569173509321" duration="607000" />
-      <workItem from="1569174287328" duration="31779000" />
+      <workItem from="1569174287328" duration="32776000" />
     </task>
     <servers />
   </component>
@@ -319,10 +321,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36018000" />
+    <option name="totallyTimeSpent" value="37015000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="695" y="62" width="1568" height="917" extended-state="0" />
+    <frame x="530" y="64" width="1568" height="917" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23708609" />
@@ -494,8 +496,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/producthunt/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="30" />
+        <state relative-caret-position="310">
+          <caret line="79" column="14" selection-start-line="77" selection-end-line="86" selection-end-column="1" />
         </state>
       </provider>
     </entry>
