@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27e19632-6bd6-435b-ba0e-60f1f5277a78" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/producthunt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="27e19632-6bd6-435b-ba0e-60f1f5277a78" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +77,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/producthunt/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="310">
               <caret line="79" column="14" selection-start-line="77" selection-end-line="86" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/producthunt/static/open-iconic/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -129,9 +137,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="530" />
-    <option name="y" value="64" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="134" />
+    <option name="y" value="134" />
     <option name="width" value="1568" />
     <option name="height" value="917" />
   </component>
@@ -183,30 +191,6 @@
               <item name="producthunt" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="open-iconic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="producthunt-project" type="462c0819:PsiDirectoryNode" />
-              <item name="producthunt" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="producthunt-project" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="producthunt-project" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="producthunt-project" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
@@ -311,7 +295,7 @@
       <updated>1569166821550</updated>
       <workItem from="1569166825078" duration="3632000" />
       <workItem from="1569173509321" duration="607000" />
-      <workItem from="1569174287328" duration="32776000" />
+      <workItem from="1569174287328" duration="33314000" />
     </task>
     <servers />
   </component>
@@ -321,11 +305,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37015000" />
+    <option name="totallyTimeSpent" value="37553000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="530" y="64" width="1568" height="917" extended-state="1" />
-    <editor active="true" />
+    <frame x="134" y="134" width="1568" height="917" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23708609" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -360,7 +343,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/products/apps.py" />
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/manage.py" />
     <entry file="file://$PROJECT_DIR$/accounts/url.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -500,6 +482,12 @@
           <caret line="79" column="14" selection-start-line="77" selection-end-line="86" selection-end-column="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producthunt/static/open-iconic/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
